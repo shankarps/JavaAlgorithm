@@ -1,5 +1,8 @@
 package com.shankar.string;
 
+/**
+ * Find the longest palindrome in a given string
+ */
 class LongestPalindrome {
     public static void main(String ar[]){
 
